@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou o Rômulo Richard 👋
 
-<!--
-**romulo2810/romulo2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Full Stack | Especialista em C#**  
+🎯 **Focado em desenvolvimento backend com .NET e APIs**
+---
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim  
+Sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia. Tenho experiência no desenvolvimento de aplicações full stack, com um foco especial no backend utilizando **C# e .NET**. Além disso, possuo sólidos conhecimentos em **HTML, CSS, JavaScript e React**, permitindo-me criar interfaces web dinâmicas e responsivas.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas  
+- 🔹 **Linguagens:** C#, JavaScript, SQL  
+- 🏗️ **Frameworks:** .NET, React  
+- 📦 **Banco de Dados:** SQL Server, MySQL  
+- 🌐 **Web:** HTML5, CSS3, Bootstrap  
+- 🔧 **Ferramentas:** Visual Studio, VS Code, Git, GitHub 
