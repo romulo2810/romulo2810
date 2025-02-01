@@ -1,6 +1,6 @@
 # Olá! Eu sou o Rômulo Richard 👋
 
-💻 **Desenvolvedor Full Stack | Especialista em C#**  
+💻 **Desenvolvedor Full Stack | Com foco em C#**  
 🎯 **Focado em desenvolvimento backend com .NET e APIs**
 ---
 
